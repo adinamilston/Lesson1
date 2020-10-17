@@ -3,7 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+/// <summary>
+/// namespace solid 45 - in Nurit's ppt
+/// </summary>
 namespace solid45
 {
     class Program
